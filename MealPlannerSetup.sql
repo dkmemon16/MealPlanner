@@ -33,10 +33,9 @@ weekday varchar2(10)
 );
 
 -- does your best!
-jsdflknjsdflkjsdlkjdsgjlksdflkjsd
-sdfplkjsdf;psdjlkgdsp;lk'sdfplkjsdpoj
-dfpmjkdfgpjkodfgpjkfdgdfgpkojl
-);
+line 1;
+line 2;
+line 4;
 
 create table RecipeIngredient(
 recipeID number(3),
