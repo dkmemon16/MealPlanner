@@ -33,8 +33,9 @@ weekday varchar2(10)
 );
 
 -- does your best!
-line 1;
-line 2;
+line 0;
+line 7;
+line 13;
 line 4;
 
 create table RecipeIngredient(
